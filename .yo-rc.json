@@ -1,0 +1,13 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.13.1",
+    "libraryName": "react-control-dep-repro-2",
+    "libraryId": "6d77b202-3ad1-4f43-aa7c-090497c4f97c",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

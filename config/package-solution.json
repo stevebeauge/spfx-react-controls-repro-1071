@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-control-dep-repro-2-client-side-solution",
+    "id": "6d77b202-3ad1-4f43-aa7c-090497c4f97c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.13.1"
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/react-control-dep-repro-2.sppkg"
+  }
+}
